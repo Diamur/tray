@@ -183,8 +183,10 @@ namespace tray
 			this.Controls.Add(this.b_Copy);
 			this.Controls.Add(this.tb_NumLine);
 			this.Controls.Add(this.tb_Content);
+			this.MaximizeBox = false;
+			this.MinimizeBox = false;
 			this.Name = "MainForm";
-			this.Text = "tray";
+			this.Text = "Накопитель Текста 1.0";
 			this.TopMost = true;
 			this.statusStrip1.ResumeLayout(false);
 			this.statusStrip1.PerformLayout();
