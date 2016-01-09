@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\bin\Debug\tray.exe.config
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\bin\Debug\tray.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\bin\Debug\tray.pdb
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\obj\Debug\tray.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\obj\Debug\tray.exe
+C:\Users\Дмитрий\Documents\SharpDevelop Projects\tray\tray\obj\Debug\tray.pdb
